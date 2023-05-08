@@ -13,7 +13,7 @@ function Hero() {
       </div>
 
       <div className="w-full flex justify-center text-white bg-blue-400">
-        <div className="max-w-lg p-4 mb-16">
+        <div className="max-w-2xl p-4 mb-16">
           <h1 className="h1">Discover Your Wonder</h1>
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, nemo
