@@ -1,11 +1,9 @@
+import hero from '../assets/img/hero.png';
+
 function Hero() {
   return (
     <div className="w-full">
-      <img
-        className="w-full aspect-video"
-        src="/src/assets/img/hero.png"
-        alt="building"
-      />
+      <img className="w-full aspect-video" src={hero} alt="building" />
 
       <div className="relative">
         <div className="triangle-bottom-left absolute bottom-0 left-0 z-10" />
